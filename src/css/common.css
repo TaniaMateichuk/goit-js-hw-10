@@ -1,0 +1,16 @@
+@import '~node_modules/modern-normalize/modern-normalize.css';
+
+.breed-select {
+    font: inherit;
+    max-width: 400px;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+
+.wrapper {
+    padding: 50px;
+}
+
+.invisible {
+    display: none;
+}
